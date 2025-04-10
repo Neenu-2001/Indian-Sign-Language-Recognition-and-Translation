@@ -23,6 +23,7 @@ Gesture Genie is a sign language project for Indian Sign Language (ISL) recognit
 See requirements.txt for versions and required packages
 
 1. To create a new app within a Django project, you can use the following command:
+   
 python manage.py startapp app_name
 
 
@@ -40,5 +41,6 @@ INSTALLED_APPS = [
 
 
 2. Run the Django server:
+   
 python manage.py runserver
 
